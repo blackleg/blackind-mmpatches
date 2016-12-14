@@ -13,7 +13,7 @@
     "install": [
         {
             "file" : "blackind/MMPatches/Tantares_TACLifeSupport.cfg",
-            "install_to" : "GameData/blackind/MMPatches/Tantares_TACLifeSupport.cfg"
+            "install_to" : "GameData/blackind/MMPatches/"
         }
     ],
     "depends": [
@@ -21,6 +21,6 @@
     ],
     "suggests"     : [
         { "name" : "MechJeb2" },
-        { "name" : "RemoteTech"}
+		{ "name" : "TACLS" }
     ]
 }
